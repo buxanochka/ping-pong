@@ -47,9 +47,9 @@ FPS = 60
 
 
 
-racket1 = Player('racket.png', 30, 200, 4, 50, 150) #Player settings
-racket2 = Player('racket.png', 520, 200, 4, 50, 150) #Player settings
-ball = GameSprite('tenis_ball.png', 200, 200, 4, 50, 50)
+racket1 = Player('racket.jpg', 30, 200, 4, 50, 150) #Player settings
+racket2 = Player('racket.jpg', 520, 200, 4, 50, 150) #Player settings
+ball = GameSprite('tenis_ball.jpg', 200, 200, 4, 50, 50)
 
 
 font.init()
